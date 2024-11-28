@@ -9,7 +9,7 @@
 <br>
 
 
-<p align="center"> <img src="/neo (1).png" alt="hhhrrrttt222111" height=300/> </p>
+<p align="center"> <img src="/rk-neo.png" alt="kartheeswaran" height=400/> </p>
 
 <br>
 
