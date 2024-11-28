@@ -9,7 +9,7 @@
 <br>
 
 
-<p align="center"> <img src="assets/neo.svg" alt="hhhrrrttt222111" height=300/> </p>
+<p align="center"> <img src="/SCR Nov 22 2024 (1).png" alt="hhhrrrttt222111" height=300/> </p>
 
 <br>
 
