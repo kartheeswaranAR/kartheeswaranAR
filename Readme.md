@@ -15,13 +15,13 @@
 
 ```js
 export default () => ({
-  websiteUrl: "https://hhhrrrttt222111.web.app/",
+  websiteUrl: "https://linktr.ee/KartheeswaranR",
   askMeAbout: [
     "Web-Development", "Networking",
     "Teaching Technical Ideas"
   ],
   technologies: {
-    "Programming languages": [ "C#", "Java", "Kotlin" , "Python"],
+    "Programming languages": [ "C#", "Java", "Kotlin", "Python"],
     "webdev": [ "HTML", "CSS", "Bootstrap", "Javascript","ReactJS", "Svelte", "Material-UI" ],
     "appdev": [ "Flutter" , "Ionic" ],
     "databases": [ "MySQl", "MSSQL Server", "XAMP Server" ],
