@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/f156a9da-07c2-48a6-b416-1ca9504f3d76)<h1 align="center"> Hey guys,<br> I'm Kartheeswaran R  💚</h1> 
+<h1 align="center"> Hey guys,<br> I'm Kartheeswaran R  💚</h1> 
 
 <br>
 <!---
