@@ -66,6 +66,7 @@ export default () => ({
 <a href="https://x.com/Karthees_offcl" target="_blank"><img align="left" alt="twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
 <a href="https://www.linkedin.com/in/kartheeswaran-analyst/" target="_blank"><img align="left" alt="likedin" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 <a href="https://www.instagram.com/_rk.dmg/" target="_blank"><img align="left" alt="insta" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
+<a href="https://dev.to/kartheeswaran1921"><img align="left" alt="dev" width="28px" src="https://media2.dev.to/dynamic/image/quality=100/https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png" /></a>
 
 <br>
 <br>
