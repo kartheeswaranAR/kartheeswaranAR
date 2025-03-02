@@ -1,4 +1,4 @@
-<h1 align="center"> Hey guys,<br> I'm Kartheeswaran R  💚</h1> 
+<h1 align="center"> Hey guys,<br> I'm Kartheeswaran Rajasekaran  ❤️</h1> 
 
 <br>
 <!---
@@ -9,7 +9,7 @@
 <br>
 
 
-<p align="center"> <img src="/rk-neo.svg" alt="kartheeswaran" height=400/> </p>
+<p align="center"> <img src="/rk-neo.svg" alt="kartheeswaran" height=200/> </p>
 
 <br>
 
@@ -21,25 +21,21 @@ export default () => ({
     "Teaching Technical Ideas"
   ],
   technologies: {
-    "Programming languages": [ "C#", "Java", "Kotlin", "Python"],
-    "webdev": [ "HTML", "CSS", "Bootstrap", "Javascript","ReactJS", "Svelte", "Material-UI" ],
-    "appdev": [ "Flutter" , "Ionic" ],
-    "databases": [ "MySQl", "MSSQL Server", "XAMP Server" ],
-    "applications": ["Microsoft Office" ],
-    "mathematicsAndStatistics": [ "NumPy", "Pandas", "SciPy" ],
-    "datavisualization": [ "Matplotlib", "Seaborn" ],
+    "Programming languages": [ "C#", "Python"],
+    "webdev": [ "HTML", "CSS", "Bootstrap", "Javascript","ReactJS", "" ],
+    "appdev": [ "Flutter", "Ionic" ],
+    "databases": [ "MySQL", "MS SQL Server", "XAMPP Server" ],
     "devOpsTools": [ "Git" ],
     "cloudOps": [ "AWS", "Azure" ],
-    "operatingSystems": [ "Ubuntu", "Kali Linux", "Windows" , "Macos"],
-    "editors": [ "VSCode", "ViM", "Pycharm", "Jupyter Notebook", "Atom", "Notepad++", "Visual Studio"]
+    "operatingSystems": [ "Ubuntu", "Kali Linux", "Windows", "MacOS", "ParrotOS"],
+    "editors": [ "VSCode", "Pycharm", "Atom", "Notepad++", "Visual Studio"]
   },
    Skills: [
-    "Leadership", "Team Building", "Decision Making",
-    "Problem Solving", "Time Management", "Quick Learner" 
+    "Leadership", "Team Building", "Decision Making", "Problem Solving", "Time Management", "Quick Learner" 
   ],
    Interest: [
-    "Technology", "Coding", "Reading", "Networking and Server Management"
-    "Football", "Music", "Painting" 
+    "Coding", "Reading", "Networking and Server Management"
+    "Caliography", "Music", "Painting", "Acting"
   ]
 });
 ```
@@ -48,7 +44,7 @@ export default () => ({
 
 ### 🌱 I’m currently learning Networking and Server Management
 ### 💬 Ask me anything on Web Development
-### 📧 Reach me: **kartheeswaranoff@gmail.com**
+### 📧 Reach me: **kartheeswaran.dev@outlook.com**
 
 <br>
 
@@ -64,9 +60,10 @@ export default () => ({
 
 <br>
 <a href="https://x.com/Karthees_offcl" target="_blank"><img align="left" alt="twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
-<a href="https://www.linkedin.com/in/kartheeswaran-analyst/" target="_blank"><img align="left" alt="likedin" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
-<a href="https://www.instagram.com/_r.k__001/" target="_blank"><img align="left" alt="insta" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
-<a href="https://dev.to/kartheeswaran1921"><img align="left" alt="dev" width="35px" src="https://media2.dev.to/dynamic/image/quality=100/https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png" /></a>
+<a href="https://www.linkedin.com/in/kartheeswaranr/" target="_blank"><img align="left" alt="likedin" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+<a href="https://www.instagram.com/__kartheeswaran/" target="_blank"><img align="left" alt="insta" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
+<a href="https://www.researchgate.net/profile/Kartheeswaran-Rajasekaran?ev=hdr_xprf" target="_blank"><img align="left" alt="Researchgate" width="28px" src="https://iconduck.com/icons/1372/researchgate" /></a>
+<a href="https://medium.com/@rkartheeswaran/lists" target="_blank"><img align="left" alt="medium" width="28px" src="https://www.flaticon.com/free-icon/medium_5968906" /></a>
 
 <br>
 <br>
@@ -79,12 +76,13 @@ export default () => ({
 <img align="left" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" alt="Python" width="40px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg"/>
 <img align="left" alt="Node.js" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="Terminal" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt=".NET" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aspnet/aspnet.png" />
 <img align="left" alt="npm" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" />
 <img align="left" alt="Azure" width="40px" src="https://raw.githubusercontent.com/github/explore/eaef8552d8b082ffafe2bfc8a5023d47da904aac/topics/azure/azure.png" />
-<img align="left" alt="Babel" width="40px" src="https://raw.githubusercontent.com/github/explore/cb39e2385dfcec8a661d01bfacff6b1e33bbaa9d/topics/babel/babel.png" />
-<img align="left" alt="Fast API" width="80px" src="https://camo.githubusercontent.com/4ebb06d037b495f2c4c67e0ee4599f747e94e6323ece758a7da27fbbcb411250/68747470733a2f2f666173746170692e7469616e676f6c6f2e636f6d2f696d672f6c6f676f2d6d617267696e2f6c6f676f2d7465616c2e706e67" />
+<img align="left" alt="Git" width="40px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" />
+<img align="left" alt="Django" width="80px" src="https://skillicons.dev/icons?i=django" />
   
 </div>
