@@ -59,11 +59,11 @@ export default () => ({
 ## Connect with me:
 
 <br>
-<a href="https://x.com/Karthees_offcl" target="_blank"><img align="left" alt="twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
+<a href="https://x.com/Karthees_offcl" target="_blank"><img align="left" alt="twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/twitter.svg" /></a>
 <a href="https://www.linkedin.com/in/kartheeswaranr/" target="_blank"><img align="left" alt="likedin" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 <a href="https://www.instagram.com/__kartheeswaran/" target="_blank"><img align="left" alt="insta" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
-<a href="https://www.researchgate.net/profile/Kartheeswaran-Rajasekaran?ev=hdr_xprf" target="_blank"><img align="left" alt="Researchgate" width="28px" src="https://iconduck.com/icons/1372/researchgate" /></a>
-<a href="https://medium.com/@rkartheeswaran/lists" target="_blank"><img align="left" alt="medium" width="28px" src="https://www.flaticon.com/free-icon/medium_5968906" /></a>
+<a href="https://www.researchgate.net/profile/Kartheeswaran-Rajasekaran?ev=hdr_xprf" target="_blank"><img align="left" alt="Researchgate" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/researchgate.svg" /></a>
+<a href="https://medium.com/@rkartheeswaran/lists" target="_blank"><img align="left" alt="medium" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" /></a>
 
 <br>
 <br>
@@ -79,10 +79,12 @@ export default () => ({
 <img align="left" alt="Python" width="40px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg"/>
 <img align="left" alt="Node.js" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="Terminal" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt=".NET" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aspnet/aspnet.png" />
+<img align="left" alt=".NET" width="40px" src="https://skillicons.dev/icons?i=dotnet" />
 <img align="left" alt="npm" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" />
+<img align="left" alt="Aws" width="40px" src="https://skillicons.dev/icons?i=aws" />
 <img align="left" alt="Azure" width="40px" src="https://raw.githubusercontent.com/github/explore/eaef8552d8b082ffafe2bfc8a5023d47da904aac/topics/azure/azure.png" />
 <img align="left" alt="Git" width="40px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" />
-<img align="left" alt="Django" width="80px" src="https://skillicons.dev/icons?i=django" />
+<img align="left" alt="Django" width="40px" src="https://skillicons.dev/icons?i=django" />
+<img align="left" alt="MongoDB" width="40px" src="https://skillicons.dev/icons?i=mongodb" />
   
 </div>
