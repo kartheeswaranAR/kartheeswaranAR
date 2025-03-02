@@ -60,10 +60,10 @@ export default () => ({
 
 <br>
 <a href="https://x.com/Karthees_offcl" target="_blank"><img align="left" alt="twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/twitter.svg" /></a>
-<a href="https://www.linkedin.com/in/kartheeswaranr/" target="_blank"><img align="left" alt="likedin" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
-<a href="https://www.instagram.com/__kartheeswaran/" target="_blank"><img align="left" alt="insta" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
-<a href="https://www.researchgate.net/profile/Kartheeswaran-Rajasekaran?ev=hdr_xprf" target="_blank"><img align="left" alt="Researchgate" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/researchgate.svg" /></a>
-<a href="https://medium.com/@rkartheeswaran/lists" target="_blank"><img align="left" alt="medium" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" /></a>
+<a href="https://www.linkedin.com/in/kartheeswaranr/" target="_blank"><img align="left" alt="likedin" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" /></a>
+<a href="https://www.instagram.com/__kartheeswaran/" target="_blank"><img align="left" alt="insta" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" /></a>
+<a href="https://www.researchgate.net/profile/Kartheeswaran-Rajasekaran?ev=hdr_xprf" target="_blank"><img align="left" alt="Researchgate" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/researchgate.svg" /></a>
+<a href="https://medium.com/@rkartheeswaran/lists" target="_blank"><img align="left" alt="medium" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/medium.svg" /></a>
 
 <br>
 <br>
