@@ -34,7 +34,7 @@
 <img align="left" width="50px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" alt="Docker" title="Docker" />
 <img align="left" width="50px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ci_cd.png" alt="CI/CD" title="CI/CD" />
 <img align="left" width="50px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/windows.png" alt="Windows" title="Windows" />
-<img align="left" color="white" width="50px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/macos.png" alt="macOS" title="macOS" />
+<img align="left" width="50px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/macos.png" alt="macOS" title="macOS" />
 <img align="left" width="50px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png" alt="Linux" title="Linux" />
 
 <br>
