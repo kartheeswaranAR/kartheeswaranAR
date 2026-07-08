@@ -7,7 +7,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-kartheeswaran.dev@outlook.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kartheeswaran.dev@outlook.com)](mailto:kartheeswaran.dev@outlook.com) 
 
 
-- 🎯 Portfolio website: [Portfolio](https://kartheeswaran-ar.github.io/)
+- 🎯 Portfolio website: [Portfolio]()
 - 💬 Ask me about anything, I am happy to help :smile:
 - 📬 How to reach me: [Let's get in touch!][linkedin]
 
